@@ -1,0 +1,19 @@
+Título: Refatoração: [título descritivo]
+
+Resumo:
+O que foi refatorado e motivação (desempenho, legibilidade, manutenibilidade).
+
+Antes:
+Código ou abordagem antiga.
+
+Depois:
+Código ou abordagem nova.
+
+Benefícios:
+Ganhos concretos (performance, redução de duplicação, etc.).
+
+Impacto:
+Arquivos modificados, testes afetados.
+
+Validações:
+Testes ou comparações pré/pós-refactor.

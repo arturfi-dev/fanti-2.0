@@ -1,0 +1,19 @@
+Título: Migration: [nome_da_migration]
+
+Resumo:
+Mudança no schema ou dados do banco.
+
+Script Up:
+SQL ou código da migration aplicada.
+
+Script Down (rollback):
+SQL ou código de reversão.
+
+Motivo da alteração:
+Problema ou funcionalidade que requer a mudança.
+
+Impacto:
+Entidades afetadas, queries antigas que podem quebrar.
+
+Como testar:
+Ambiente de testes, verificações pós-apply.

@@ -1,0 +1,18 @@
+Título: Implementação da Tela: [nome]
+
+Resumo:
+Descrição do que foi implementado e qual problema resolve.
+
+Entrega:
+- Componentes criados/modificados
+- Funcionalidades
+- Consumo de APIs (se houver)
+
+Como testar:
+Passos simples de verificação.
+
+Impacto:
+Arquivos ou módulos afetados.
+
+Pendências:
+Dependências ou trabalhos futuros relacionados.

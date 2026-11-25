@@ -1,0 +1,16 @@
+Título: Bugfix: [título do bug]
+
+Resumo:
+Descrição do problema e impacto.
+
+Causa raiz:
+Explicação técnica do que estava errado.
+
+Solução aplicada:
+O que foi alterado e por quê.
+
+Testes realizados:
+Validações feitas após correção.
+
+Pontos de atenção:
+Possíveis efeitos colaterais ou comportamentos relacionados.

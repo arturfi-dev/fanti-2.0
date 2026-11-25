@@ -1,0 +1,16 @@
+Título: Componente [Nome]: [breve descrição]
+
+Resumo:
+O que o componente faz e por que foi criado.
+
+Assinatura de uso:
+Código de exemplo ou props principais.
+
+Onde está sendo usado:
+Telas/componentes que o consomem.
+
+Alterações futuras:
+Melhorias ou funcionalidades planejadas.
+
+Testes sugeridos:
+Testes manuais ou automatizados.

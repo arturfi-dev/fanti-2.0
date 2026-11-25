@@ -1,0 +1,19 @@
+Título: Endpoint [Método] [rota]
+
+Resumo:
+O que o endpoint faz e qual regra de negócio atende.
+
+Request Body:
+Modelo de entrada (JSON exemplo).
+
+Response:
+Modelo de resposta (sucesso + erros).
+
+Validações/Regras de negócio:
+Checagens aplicadas no backend.
+
+Impacto:
+Outros endpoints ou serviços afetados.
+
+Como testar:
+Curl/Postman ou rota frontend que consome.

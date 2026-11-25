@@ -1,0 +1,22 @@
+Título: Microserviço [nome]
+
+Resumo:
+Propósito do serviço, qual domínio gerencia.
+
+Responsabilidades:
+O que o microserviço faz (serviços, endpoints, eventos).
+
+Arquitetura/Tecnologias:
+Framework, banco de dados, mensageria, bibliotecas.
+
+Comunicação:
+Como se comunica com outros serviços (REST, gRPC, mensagens).
+
+Deploy:
+Instruções ou pipelines de deploy.
+
+Testes:
+Testes unitários, integração, e2e.
+
+Documentação adicional:
+Links para swagger, diagramas, wikis.
